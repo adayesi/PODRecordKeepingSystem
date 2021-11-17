@@ -1,0 +1,12 @@
+Date: 17-11-2021, Time: 13: 09: 15: PM. Error: The method or operation is not implemented.
+
+Date: 17-11-2021. Time: 13: 09: 29: PM. Error: Could not find file 'C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\Files\DataFile\dataStore.txt'.
+
+Date: 17-11-2021. Time: 13: 10: 14: PM. Error: Could not find file 'C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\Files\DataFile\dataStore.txt'.
+
+Date: 17-11-2021, Time: 13: 13: 49: PM. Error: The method or operation is not implemented.
+
+Date: 17-11-2021. Time: 13: 16: 35: PM. Error: Could not find file 'C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\Files\DataFile\dataStore.txt'.
+
+Date: 17-11-2021. Time: 13: 25: 38: PM. Error: Could not find file 'C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\Files\DataFile\dataStore.txt'.
+

@@ -1,0 +1,23 @@
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\bin\Debug\net6.0\PodMembersRecordModels.deps.json
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\bin\Debug\net6.0\PodMembersRecordModels.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\bin\Debug\net6.0\ref\PodMembersRecordModels.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\bin\Debug\net6.0\PodMembersRecordModels.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.AssemblyInfoInputs.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.AssemblyInfo.cs
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.csproj.CoreCompileInputs.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\obj\Debug\net6.0\ref\PodMembersRecordModels.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\PodMembersRecordModels.deps.json
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\PodMembersRecordModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\ref\PodMembersRecordModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\PodMembersRecordModels.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.AssemblyInfo.cs
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\ref\PodMembersRecordModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\PodMembersRecordModels.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PodMembersData/1.0.0": {
+        "dependencies": {
+          "MembersModels": "1.0.0"
+        },
+        "runtime": {
+          "PodMembersData.dll": {}
+        }
+      },
+      "MembersModels/1.0.0": {
+        "runtime": {
+          "MembersModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PodMembersData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MembersModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PodMembersUI/1.0.0": {
+        "dependencies": {
+          "PodMembersData": "1.0.0",
+          "PodMembersServices": "1.0.0"
+        },
+        "runtime": {
+          "PodMembersUI.dll": {}
+        }
+      },
+      "MembersModels/1.0.0": {
+        "runtime": {
+          "MembersModels.dll": {}
+        }
+      },
+      "PodMembersData/1.0.0": {
+        "dependencies": {
+          "MembersModels": "1.0.0"
+        },
+        "runtime": {
+          "PodMembersData.dll": {}
+        }
+      },
+      "PodMembersServices/1.0.0": {
+        "dependencies": {
+          "MembersModels": "1.0.0",
+          "PodMembersData": "1.0.0"
+        },
+        "runtime": {
+          "PodMembersServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PodMembersUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MembersModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PodMembersData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PodMembersServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

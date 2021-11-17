@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08809979-f9b6-4a2a-b0ab-11b1b60c5f9f": {
+      "ProjectGuid": "08809979-f9b6-4a2a-b0ab-11b1b60c5f9f",
+      "DisplayName": "PodMembersUI",
+      "ColorIndex": 0
+    },
+    "081abccb-bb87-4bad-b9e7-c03ef1dc0298": {
+      "ProjectGuid": "081abccb-bb87-4bad-b9e7-c03ef1dc0298",
+      "DisplayName": "PodMembersData",
+      "ColorIndex": 1
+    },
+    "8638eeb7-9736-4a64-9b5b-02728425a209": {
+      "ProjectGuid": "8638eeb7-9736-4a64-9b5b-02728425a209",
+      "DisplayName": "PodMembersServices",
+      "ColorIndex": 2
+    },
+    "7f5ed8d9-67df-42c5-ac0e-862ede5bb8ba": {
+      "ProjectGuid": "7f5ed8d9-67df-42c5-ac0e-862ede5bb8ba",
+      "DisplayName": "MembersModels",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

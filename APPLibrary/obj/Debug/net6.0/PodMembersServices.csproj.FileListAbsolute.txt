@@ -1,0 +1,51 @@
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.deps.json
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\ref\PodMembersServices.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\MembersModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersData.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersData.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.AssemblyInfo.cs
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.CopyComplete
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\ref\PodMembersServices.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\ref\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.deps.json
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\ref\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersData.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersData.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.CopyComplete
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.deps.json
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\ref\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersServices.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersData.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\PodMembersData.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\bin\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.csproj.CopyComplete
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\ref\PodMembersServices.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\APPLibrary\obj\Debug\net6.0\PodMembersServices.pdb

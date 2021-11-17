@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MembersModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MembersModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MembersModels.dll": {}
+        }
+      },
+      "PodMembersData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MembersModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PodMembersData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PodMembersData.dll": {}
+        }
+      },
+      "PodMembersServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MembersModels": "1.0.0",
+          "PodMembersData": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PodMembersServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PodMembersServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MembersModels/1.0.0": {
+      "type": "project",
+      "path": "../AppModels/MembersModels.csproj",
+      "msbuildProject": "../AppModels/MembersModels.csproj"
+    },
+    "PodMembersData/1.0.0": {
+      "type": "project",
+      "path": "../APPDataAccess/PodMembersData.csproj",
+      "msbuildProject": "../APPDataAccess/PodMembersData.csproj"
+    },
+    "PodMembersServices/1.0.0": {
+      "type": "project",
+      "path": "../APPLibrary/PodMembersServices.csproj",
+      "msbuildProject": "../APPLibrary/PodMembersServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PodMembersData >= 1.0.0",
+      "PodMembersServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\RecordKeepingSystem\\DotNetPodMembers\\PodMembersUI.csproj",
+      "projectName": "PodMembersUI",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\RecordKeepingSystem\\DotNetPodMembers\\PodMembersUI.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\RecordKeepingSystem\\DotNetPodMembers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\hp\\source\\repos\\RecordKeepingSystem\\APPDataAccess\\PodMembersData.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\RecordKeepingSystem\\APPDataAccess\\PodMembersData.csproj"
+            },
+            "C:\\Users\\hp\\source\\repos\\RecordKeepingSystem\\APPLibrary\\PodMembersServices.csproj": {
+              "projectPath": "C:\\Users\\hp\\source\\repos\\RecordKeepingSystem\\APPLibrary\\PodMembersServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

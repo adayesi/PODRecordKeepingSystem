@@ -1,0 +1,44 @@
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.exe
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.deps.json
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.runtimeconfig.json
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\ref\PodMembersRecordUI.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.csproj.AssemblyReference.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.AssemblyInfoInputs.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.AssemblyInfo.cs
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.csproj.CoreCompileInputs.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\ref\PodMembersRecordUI.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.genruntimeconfig.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordData.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordModels.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordServices.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordData.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordServices.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordModels.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.csproj.CopyComplete
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.exe
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.deps.json
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.runtimeconfig.json
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\ref\PodMembersRecordUI.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordUI.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordData.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordServices.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordData.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordServices.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\PodMembersRecordModels.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.AssemblyInfo.cs
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.csproj.CopyComplete
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\ref\PodMembersRecordUI.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\PodMembersRecordUI.genruntimeconfig.cache

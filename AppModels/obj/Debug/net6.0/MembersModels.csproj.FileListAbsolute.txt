@@ -1,0 +1,36 @@
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.deps.json
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\ref\MembersModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.AssemblyInfo.cs
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\ref\MembersModels.dll
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.AssemblyInfo.cs
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\ref\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.deps.json
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\ref\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\Documents\Decagon Week 5\RecordKeepingSystem (1)\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.deps.json
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\bin\Debug\net6.0\ref\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\bin\Debug\net6.0\MembersModels.pdb
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.AssemblyInfo.cs
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\ref\MembersModels.dll
+C:\Users\hp\source\repos\RecordKeepingSystem\AppModels\obj\Debug\net6.0\MembersModels.pdb

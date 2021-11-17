@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\APPDataAccess\PodMembersData.csproj" />
+    <ProjectReference Include="..\APPLibrary\PodMembersServices.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\DataFile\" />
+    <Folder Include="Files\RKSErrorLogs\" />
+    <Folder Include="Utilities\Files\" />
+  </ItemGroup>
+
+</Project>

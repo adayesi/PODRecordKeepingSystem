@@ -1,0 +1,15 @@
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\DotNetPodMembers.exe
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\DotNetPodMembers.deps.json
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\DotNetPodMembers.runtimeconfig.json
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\DotNetPodMembers.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\ref\DotNetPodMembers.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\bin\Debug\net6.0\DotNetPodMembers.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.csproj.AssemblyReference.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.AssemblyInfoInputs.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.AssemblyInfo.cs
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.csproj.CoreCompileInputs.cache
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\ref\DotNetPodMembers.dll
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.pdb
+C:\Projects\WeeklyTasks\Week5\RecordKeepingSystem\DotNetPodMembers\obj\Debug\net6.0\DotNetPodMembers.genruntimeconfig.cache

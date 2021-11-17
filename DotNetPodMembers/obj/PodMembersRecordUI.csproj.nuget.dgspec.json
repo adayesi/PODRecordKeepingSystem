@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\DotNetPodMembers\\PodMembersRecordUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\PodMembersRecordData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\PodMembersRecordData.csproj",
+        "projectName": "PodMembersRecordData",
+        "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\PodMembersRecordData.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\PodMembersRecordModels.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\PodMembersRecordModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPLibrary\\PodMembersRecordServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPLibrary\\PodMembersRecordServices.csproj",
+        "projectName": "PodMembersRecordServices",
+        "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPLibrary\\PodMembersRecordServices.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\PodMembersRecordData.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\PodMembersRecordData.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\PodMembersRecordModels.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\PodMembersRecordModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\PodMembersRecordModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\PodMembersRecordModels.csproj",
+        "projectName": "PodMembersRecordModels",
+        "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\PodMembersRecordModels.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\AppModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\DotNetPodMembers\\PodMembersRecordUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\DotNetPodMembers\\PodMembersRecordUI.csproj",
+        "projectName": "PodMembersRecordUI",
+        "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\DotNetPodMembers\\PodMembersRecordUI.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\DotNetPodMembers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\PodMembersRecordData.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPDataAccess\\PodMembersRecordData.csproj"
+              },
+              "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPLibrary\\PodMembersRecordServices.csproj": {
+                "projectPath": "C:\\Users\\hp\\Documents\\Decagon Week 5\\RecordKeepingSystem (1)\\RecordKeepingSystem\\APPLibrary\\PodMembersRecordServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
